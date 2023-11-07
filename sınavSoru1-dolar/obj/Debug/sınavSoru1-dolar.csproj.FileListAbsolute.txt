@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\bin\Debug\sınavSoru1-dolar.exe.config
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\bin\Debug\sınavSoru1-dolar.exe
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\bin\Debug\sınavSoru1-dolar.pdb
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1-dolar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1-dolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1_dolar.Form1.resources
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1_dolar.Properties.Resources.resources
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1-dolar.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1-dolar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1-dolar.exe
+C:\Users\User\source\repos\sınavSoru1-dolar\sınavSoru1-dolar\obj\Debug\sınavSoru1-dolar.pdb
